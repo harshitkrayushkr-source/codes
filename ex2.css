@@ -1,0 +1,85 @@
+.request-button{
+  background-color:black;
+  color: white;
+  border: none;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.request-button:hover{
+  opacity: 0.8;
+}
+
+.add-button{
+  background-color: rgb(255,216,20);
+  color: black;
+  border: none;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 15px;
+}
+
+.sign-button{
+  background-color: rgb(46,164,79);
+  color: white;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.get-button{
+  background-color: rgb(121,82,179);
+  color: white;
+  border: none;
+  font-weight: bold;
+  padding-left: 23px;
+  padding-right: 23px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+}
+
+.download-button{
+  background-color: white;
+  color: rgb(108,117,125);
+  font-weight: bold;
+  border: 1px solid rgb(108,117,125);
+  padding-left: 23px;
+  padding-right: 23px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+}
+
+.apply-button{
+  background-color: rgb(10,102,194);
+  color: white;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: none;
+  border-radius: 15px;
+}
+
+
+.title{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.price{
+  color:rgb(0,118,0);
+  font-weight:bold;
+}
